@@ -23,7 +23,7 @@ async function bootstrap(): Promise<void> {
 
   // Initialize Express app
   const app = express();
-  const port = process.env.PORT;
+  const port = process.env.PORT || 3001;
 
   // Built-in middleware
   app.use(cors({
